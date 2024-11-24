@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">smartLOck</string>
+    <string name="welcome">anda orang tidak dikenal</string>
+    <string name="sayHello">haloo %1$s dari kelas %2$s dengan nrp %3$s</string>
+    <string name="page2">selamat datang %1$s dengan nrp %2$s</string>
+    <string name="keyNama">NAMA</string>
+    <string name="welcomeLogged">selamat datang %1$s</string>
+    <string name="passwordSalah">maaf password anda salah</string>
+    <string name="uidusernameSalah">maaf UID atau username tidak ditemukan</string>
+    <string name="passTidakCocokReg">maaf password anda tidak cocok</string>
+    <string name="akunberhasil">akun berhasil dibuat, silahkan login</string>
+    <string name="pesanterkirim">pesan berhasil terkirim</string>
+    <string name="title_activity_photos">PhotosActivity</string>
+    <color name="tombol">#00FFFF</color>
+</resources>

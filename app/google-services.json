@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1089864981170",
+    "firebase_url": "https://espcam-e3bb4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "espcam-e3bb4",
+    "storage_bucket": "espcam-e3bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089864981170:android:5a3d158367d5e0cfad87ab",
+        "android_client_info": {
+          "package_name": "com.example.smartlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3UkvP6GN5nJsWK2_IDtlNCaDxbamaXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089864981170:android:865ee9a7db439fbaad87ab",
+        "android_client_info": {
+          "package_name": "com.mahya.company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3UkvP6GN5nJsWK2_IDtlNCaDxbamaXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

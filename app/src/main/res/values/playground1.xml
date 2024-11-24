@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="buttonState">0</integer>
+    <string-array name="listNama">
+        <item>raffi</item>
+        <item>nmahya</item>
+        <item>pratama</item>
+    </string-array>
+    <string-array name="sensorsValue">
+        <item>humidity: 201</item>
+        <item>temp: 271</item>
+        <item>gas: 736</item>
+    </string-array>
+    <bool name="state">true</bool>
+    <color name="warna">@color/black</color>
+</resources>
